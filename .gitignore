@@ -12,3 +12,8 @@ nodesource.gpg
 sync-wp-images-to-ghost-any.js
 sync-wp-images-to-ghost.js
 sql-backups/
+
+# BIG files
+content/images/2024/10/2024-10-01-181938372.mp4
+content/images/2025/05/PXL_20250503_015921802.mp4
+
