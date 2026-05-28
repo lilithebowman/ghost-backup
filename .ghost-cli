@@ -1,0 +1,8 @@
+{
+  "active-version": "6.41.0",
+  "cli-version": "1.29.3",
+  "channel": "stable",
+  "name": "www-lilithebowman-com",
+  "linux-user": "ghost",
+  "running": "production"
+}

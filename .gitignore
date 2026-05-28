@@ -1,0 +1,14 @@
+/node_modules
+/node_modules/*
+node_modules/
+
+# sensitive files
+config.production.json
+create-draft-post.js
+generate-jwt.js
+ghost-image-auto-fix.js
+ghost-image-autofix.js
+nodesource.gpg
+sync-wp-images-to-ghost-any.js
+sync-wp-images-to-ghost.js
+sql-backups/
